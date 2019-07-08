@@ -1,5 +1,77 @@
+/* Tablet View */
+@media (min-width:600px) and (max-width:767px){
+  .wrapper{
+    width: 600px;
+    height: auto;
+
+  }
+  #a{
+    background-color: rosybrown;
+    width: 485px;
+    height: 150px;
+    float: left;
+  }
+  
+  #b{
+    background-color: grey;
+    width: 20%;
+    height: 600px;
+    float: left;
+  }
+  
+  #c{
+    background-color: orchid;
+    width: 30%;
+    height: 200px;
+    float: left;
+  }
+  
+  #d{
+    background-color: aliceblue;
+    width: 30%;
+    height: 200px;
+    float: left;
+  }
+  
+  #e{
+    background-color: cadetblue;
+    width: 30%;
+    height: 200px;
+    float: left;
+  }
+  
+  #f{
+    background-color: lightgreen;
+    width: 30%;
+    height: 200px;
+    float: left;
+  }
+  
+  #g{
+    background-color: skyblue;
+    width: 30%;
+    height: 200px;
+    float: left;
+  }
+  
+  #h{
+    background-color: antiquewhite;
+    width: 30%;
+    height: 200px;
+    float: left;
+  }
+  
+  #i{
+    background-color: firebrick;
+    width: 485px;
+    height: 150px;
+    float: left;
+  }
+
+}  
+
 /* Desktop View */
-  @media only screen and (min-width:768px) {
+  @media (min-width:768px){
   .wrapper{
     width: 960px;
     height: auto;
