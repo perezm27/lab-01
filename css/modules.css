@@ -7,7 +7,7 @@
   }
   #a{
     background-color: rosybrown;
-    width: 485px;
+    width: 100%;
     height: 150px;
     float: left;
   }
@@ -21,49 +21,49 @@
   
   #c{
     background-color: orchid;
-    width: 30%;
+    width: 40%;
     height: 200px;
     float: left;
   }
   
   #d{
     background-color: aliceblue;
-    width: 30%;
+    width: 40%;
     height: 200px;
     float: left;
   }
   
   #e{
     background-color: cadetblue;
-    width: 30%;
+    width: 40%;
     height: 200px;
     float: left;
   }
   
   #f{
     background-color: lightgreen;
-    width: 30%;
+    width: 40%;
     height: 200px;
     float: left;
   }
   
   #g{
     background-color: skyblue;
-    width: 30%;
+    width: 40%;
     height: 200px;
     float: left;
   }
   
   #h{
     background-color: antiquewhite;
-    width: 30%;
+    width: 40%;
     height: 200px;
     float: left;
   }
   
   #i{
     background-color: firebrick;
-    width: 485px;
+    width: 100%;
     height: 150px;
     float: left;
   }
